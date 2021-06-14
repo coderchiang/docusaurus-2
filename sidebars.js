@@ -1,6 +1,5 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    项目文档: ['README.zh-CN','README'],
   },
 };
